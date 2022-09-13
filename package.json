@@ -2,7 +2,7 @@
   "name": "intro-to-typescript",
   "version": "1.0.0",
   "description": "![](./images/TS_LOGO.png)",
-  "main": "index.js",
+  "main": "example.ts",
   "dependencies": {
     "abbrev": "^1.1.1",
     "acorn": "^8.8.0",
